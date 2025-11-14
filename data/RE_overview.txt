@@ -1,0 +1,605 @@
+﻿DOE/GO-102001-1102
+
+E FS175
+NERGY March 2001
+
+EFFICIENCY Renewable Energy: 
+ R                        AND
+
+ENEWABLE An Overview
+ENERGY
+
+What is Renewable Energy? safety concerns and waste disposal prob-
+lems, the United States will retire much of
+
+Renewable energy uses energy sources its nuclear capacity by 2020. In the mean-
+that are continually replenished by time, the nation’s energy needs are
+nature—the sun, the wind, water, the expected to grow by 33 percent during the
+Earth’s heat, and plants. Renewable next 20 years. Renewable energy can help
+energy technologies turn these fuels into fill the gap.
+usable forms of energy—most often elec-
+tricity, but also heat, chemicals, or Even if we had an unlimited supply of fos-
+mechanical power. sil fuels, using renewable energy is better
+
+for the environment. We often call renew-
+Why Use Renewable Energy? able energy technologies “clean” or
+Today we primarily use fossil fuels to heat “green” because they produce few if any
+and power our homes and fuel our cars. pollutants. Burning fossil fuels, however,
+It’s convenient to use coal, oil, and natural sends greenhouse gases into the atmos-
+gas for meeting our energy needs, but we phere, trapping the sun’s heat and con-
+have a limited supply of these fuels on the tributing to global warming. Climate
+Earth. We’re using them much more scientists generally agree that the Earth’s
+rapidly than they are being created. Even- average temperature has risen in the past
+tually, they will run out. And because of century. If this trend continues, sea levels 
+
+will rise, and scientists
+predict that floods,
+heat waves, droughts,
+and other extreme
+weather conditions
+could occur more often.
+
+Other pollutants are
+released into the air,
+soil, and water when
+fossil fuels are burned.
+These pollutants take a
+dramatic toll on the
+environment—and on
+humans. Air pollution
+contributes to diseases
+like asthma. Acid rain
+from sulfur dioxide
+and nitrogen oxides
+harms plants and fish.
+Nitrogen oxides also
+contribute to smog.
+
+A PV-system at the Pinnacles National Monument in California
+eliminates a $20,000 annual fuel bill for a diesel generator that pro-
+duced each year 143 tons of carbon dioxide—a greenhouse gas.
+
+ENT OF E
+RTM N
+
+This document was produced for the U.S. Department of Energy (DOE) by the National Renewable Energy Laboratory (NREL), a DOE national laboratory. The
+document was produced by the Information and Outreach Program at NREL for the DOE Office of Energy Efficiency and Renewable Energy. The Energy Efficiency
+and Renewable Energy Clearinghouse (EREC) is operated by NCI Information Systems, Inc., for NREL / DOE. The statements contained herein are based on
+information known to EREC and NREL at the time of printing. No recommendation or endorsement of any product or service is implied if mentioned by EREC.
+
+STA A
+TES OF
+
+Printed with a renewable-source ink on paper containing at least 50% wastepaper, including 20% postconsumer waste
+
+DEPA
+
+M
+ERICA
+
+National Park Service, NREL/PIX04924
+
+CLEARINGHOUSE ER
+GY
+
+ED
+UNIT
+
+
+
+Renewable energy will also help us Bioenergy 
+develop energy independence and secu-
+rity. The United States imports more than Bioenergy is the energy derived from bio-
+50 percent of its oil, up from 34 percent in mass (organic matter), such as plants. If
+1973. Replacing some of our petroleum you’ve ever burned wood in a fireplace or
+with fuels made from plant matter, for campfire, you’ve used bioenergy. But we
+example, could save money and don’t get all of our biomass resources
+strengthen our energy security. directly from trees or other plants. Many
+
+industries, such as those involved in con-
+Renewable energy is plentiful, and the struction or the processing of agricultural
+
+Hydropower is our technologies are improving all the time. products, can create large quantities of
+There are many ways to use renewable unused or residual biomass, which can
+
+most mature and energy. Most of us already use renewable serve as a bioenergy source. 
+energy in our daily lives.
+
+largest source of Biopower 
+Hydropower After hydropower, biomass is this coun-
+
+renewable power… try’s second-leading resource of renewable
+Hydropower is our most mature and energy, accounting for more than 7,000
+largest source of renewable power, pro- MW of installed capacity. Some utilities
+ducing about 10 percent of the nation’s and power generating companies with
+electricity. Existing hydropower capacity coal power plants have found that replac-
+is about 77,000 megawatts (MW). Hydro- ing some coal with biomass is a low-cost
+power plants convert the energy in flowing option to reduce undesirable emissions.
+water into electricity. The most common As much as 15 percent of the coal may be
+form of hydropower uses a dam on a river replaced with biomass. Biomass has less
+to retain a large reservoir of water. Water is sulfur than coal. Therefore, less sulfur
+released through turbines to generate dioxide, which contributes to acid rain, is
+power. “Run of the river” systems, how- released into the air. Additionally, using
+ever, divert water from the river and biomass in these boilers reduces nitrous
+direct it through a pipeline to a turbine. oxide emissions.
+
+Hydropower plants produce no air emis- A process called gasification—the conver-
+sions but can affect water quality and sion of biomass into gas, which is burned
+wildlife habitats. Therefore, hydropower in a gas turbine—is another way to gener-
+plants are now being designed and oper- ate electricity. The decay of biomass in
+ated to minimize impacts on the river. landfills also produces gas, mostly
+Some of them are diverting a portion of methane, which can be burned in a boiler
+the flow around their dams to mimic the to produce steam for electricity generation
+natural flow of the river. But while this or industrial processes. Biomass can also
+
+improves the be heated in the absence of oxygen to
+wildlife’s river chemically convert it into a type of fuel oil,
+habitat, it also called pyrolysis oil. Pyrolysis oil can be
+reduces the power used for power generation and as a feed-
+plant’s output. In stock for fuels and chemical production.  
+addition, fish lad-
+ders and other Biofuels
+approaches, such
+as improved tur- Biomass can be converted directly into liq-
+bines, are being uid fuels, called biofuels. Because biofuels
+used to assist fish are easy to transport and possess high
+with migration energy density, they are favored to fuel
+and lower the vehicles and sometimes stationary power
+number of fish generation. The most common biofuel is
+killed. ethanol, an alcohol made from the fermen-
+
+tation of biomass high in carbohydrates.
+The current largest source of ethanol is corn.
+
+A small-scale hydropower system in King Cove, Some cities use ethanol as a gasoline addi-
+Alaska, provides residents in this remote area with a
+less expensive source of electricity. tive to help meet air quality standards for
+
+2
+
+Duane Hippe, NREL/PIX04410
+
+
+
+ozone. Flex-fuel amounts to 50,000 times the energy of all
+vehicles are also oil and gas resources in the world. In the
+now on the market, United States, most geothermal reservoirs
+which can use a are located in the western states, Alaska,
+mixture of gasoline and Hawaii. GHPs, however, can be used
+and ethanol, such almost anywhere.  
+as E85—a mixture
+of 85 percent Geothermal Electricity Production 
+ethanol and 15 per- Geothermal power plants access the under-
+cent gasoline. ground steam or hot water from wells
+Another biofuel is drilled a mile or more into the earth. The
+biodiesel, which steam or hot water is piped up from the
+can be made from well to drive a conventional steam turbine,
+vegetable and ani- which powers an electric generator. Typi-
+
+This gasifier in Burlinton, Vermont, converts biomass mal fats. Biodiesel cally, the water is then returned to the
+into a clean gas for electricity production can be used to fuel ground to recharge the reservoir and com-
+
+a vehicle or as a plete the renewable energy cycle. 
+fuel additive to reduce emissions.
+
+There are three types of geothermal power
+Corn ethanol and biodiesel provide about plants: dry steam, flash steam, and binary
+0.4 percent of the total liquid fuels market. cycle. Dry steam plants draw from reser-
+To increase our available supply of biofu- voirs of steam, while both flash steam and
+els, researchers are testing crop residues— binary cycle plants draw from reservoirs
+such as cornstalks and leaves—wood of hot water. Flash steam plants typically
+chips, food waste, grass, and even trash as use water at temperatures greater than
+potential biofuel sources. 360°F. Unlike both steam and flash plants,
+
+binary-cycle plants transfer heat from the
+Biobased Products water to what’s called a working fluid.
+
+If you’ve ever burned Biomass—corn, wheat, soybeans, wood, Therefore binary cycle plants can operate
+and residues—can also be used to produce using water at lower temperatures of
+
+wood in a fireplace chemicals and materials that we normally about 225° to 360°F. 
+obtain from petroleum. Industry has
+
+or campfire, you've already begun to use cornstarch to pro-
+duce commodity plastics, such as
+
+used bioenergy. shrinkwrap, plastic eating utensils, and
+even car bumpers. Commercial develop-
+ment is underway to make thermoset
+plastics, like electrical switch plate covers,
+from wood residues. 
+
+Geothermal Energy
+The Earth’s core, 4,000 miles below the sur-
+face, can reach temperatures of 9000° F. The Steamboat Hills geothermal power plant
+This heat—geothermal energy—flows out- in Steamboat Springs, Nevada has an electric-
+ward from the core, heating the surround- ity generation capacity of 13.5 MW.
+
+ing area, which can form underground
+reservoirs of hot water and steam. These All of the U.S. geothermal power plants
+reservoirs can be tapped for a variety of are in California, Nevada, Utah, and
+uses, such as to generate electricity or heat Hawaii. Altogether about 2800 MW of
+buildings. By using geothermal heat geothermal electric capacity is produced
+pumps (GHPs), we can even take advan- annually in this country. 
+tage of the shallow ground’s stable tem-
+perature for heating and cooling buildings. Geothermal Direct Use
+
+If you’ve ever soaked in a natural hot spring,
+The geothermal energy potential in the you’re one of millions of people around the
+uppermost 6 miles of the Earth’s crust world who has enjoyed the direct use of
+
+3
+
+Warren Gretz, NREL/PIX04744
+
+Joel Renner, INEEL, NREL/PIX07658
+
+
+
+geothermal energy. Direct-use applications Solar Energy
+require geothermal temperatures between
+about 70° to 302°F—lower than those Solar technologies tap directly into the
+required for electricity generation. The infinite power of the sun and use that
+United States already has about 1,300 geot- energy to produce heat, light, and power. 
+hermal direct-use systems in operation. 
+
+Passive Solar Lighting and Heating 
+Altogether about In a direct-use system, a well is drilled People have used the sun to heat and light
+
+into a geothermal reservoir, which pro- their homes for centuries. Ancient Native
+2800 MW of vides a steady stream of hot water. Some Americans built their dwellings directly
+
+systems use the water directly, but most into south-facing cliff walls because they
+geothermal electric pump the water through what’s called a knew the sun travels low across the south-
+
+heat exchanger. The heat exchanger keeps ern sky in the Northern Hemisphere dur-
+capacity is produced the water separate from a working fluid ing the winter. They also knew the
+
+(usually water or a mixture of water and massive rock of the cliff would absorb
+annually in this antifreeze), which is heated by the geot- heat in winter and protect against wind
+
+hermal water. The working fluid then and snow. At the same time, the cliff-
+country. flows through piping, distributing the dwelling design blocked sunlight during
+
+heat directly for its intended use. the summer, when the sun is higher in the
+sky, keeping their dwellings cool. 
+
+The heated water or fluid can be used in a
+building to replace the traditional heat The modern version of this sun-welcoming
+source—often natural gas—of a boiler, fur- design is called passive solar because no
+nace, and hot water heater. Some cities pumps, fans, or other mechanical devices
+and towns actually have large direct-use are used. Its most basic features include
+heating systems—called district heating— large, south-facing windows that fill the
+that provide many buildings with heat. home with natural sunlight, and dark tile
+Geothermal direct use is also used in agri- or brick floors that store the sun’s heat and
+culture—such as for fish farms and to heat release it back into the home at night. In the
+greenhouses—and for industrial food pro- summer, when the sun is higher in the sky,
+cessing (vegetable dehydration).  window overhangs block direct sunlight,
+
+which keeps the house cool. Tile and brick
+Geothermal Heat Pumps floors also remain cool during the summer.
+While air temperatures can vary widely
+through the seasons, the temperatures of Passive solar design combined with
+the shallow ground only range from 50° to energy efficiency will go even further.
+70°F depending on latitude. GHPs draw Energy-efficient features such as energy-
+on this relatively stable temperature as a saving windows and appliances, along
+source for heating buildings in the winter with good insulation and weatherstrip-
+and keeping them cool in the summer. ping, can make a huge difference in
+
+energy and cost savings. 
+Through underground piping, a GHP dis-
+charges heat from inside a building into Solar Water Heating 
+the ground in the summer, much like a Solar energy can be used to heat water for
+refrigerator uses electricity to keep its inte- your home or your swimming pool. Most
+rior cool while releasing heat into your solar water-heating systems consist of a
+kitchen. In the winter, this process is solar collector and a water storage tank. 
+
+This homeowner in Aurora, reversed; the GHP extracts heat from the
+Colorado, uses a GHP to heat ground and releases it into a building. Solar water-heating systems use collectors,
+and cool his home. generally mounted on a south-facing roof,
+
+Because GHPs actually move heat between to heat either water or a heat-transfer
+homes and the earth, instead of burning fluid, such as a nontoxic antifreeze. The
+fuels, they operate very cleanly and effi- heated water is then stored in a water tank
+ciently. In fact, GHPs are at least three times similar to one used in a conventional gas
+more efficient than even the most energy- or electric water-heating system. 
+efficient furnaces on the market today.
+
+4
+
+Warren Gretz, NREL/PIX06537
+
+
+
+There are basically systems are now combined with a small
+three types of solar solar-electric panel to power the pump. 
+collectors for heat-
+ing water: flat- The amount of hot water a solar water
+plate, evacuated- heater produces depends on the type and
+tube, and concen- size of the system, the amount of sun
+trating. The most available at the site, proper installation,
+common type, a and the tilt angle and orientation of the
+flat-plate collector, is collectors. But if you’re currently using an
+an insulated, electric water heater, solar water heating is
+weatherproof box a cost-effective alternative. If you own a
+containing a dark swimming pool, heating the water with
+absorber plate solar collectors can also save you money. 
+under a transpar-
+
+The Four Times Square Building in New York City uses ent cover. Evacu- Solar Electricity
+thin-film PV panels to reduce the building’s power load ated-tube collectors
+from the utility grid. Solar electricity or photovoltaic (PV) tech-
+
+are made up of nology converts sunlight directly into elec-
+rows of parallel, transparent glass tubes. tricity. Solar electricity has been a prime
+Each tube consists of a glass outer tube source of power for space vehicles since
+and an inner tube, or absorber, covered the inception of the space program. It has
+with a coating that absorbs solar energy also been used to power small electronics
+but inhibits heat loss. Concentrating collec- and rural and agricultural applications for
+tors for residential applications are usually three decades. During the last decade, a
+parabolic-shaped mirrors (like a trough) strong solar electric market has emerged
+that concentrate the sun’s energy on an for powering urban grid-connected homes
+absorber tube called a receiver that runs and buildings as a result of advances in
+along the axis of the mirrored trough and solar technology along with global
+contains a heat-transfer fluid. changes in electric industry restructuring. 
+
+All three types of collectors heat water by Although many types of solar electric sys-
+circulating household water or a heat-trans- tems are available today, they all consist of
+fer fluid such as a nontoxic antifreeze from basically three main items: modules that
+
+Passive solar building the collector to the water storage tanks. Col- convert sunlight into electricity; inverters
+lectors do this either passively or actively. that convert that electricity into alternat-
+
+techniques turn ing current so it can be used by most
+Passive solar water-heating systems use household appliances; and possibly or
+
+homes into huge natural convection or household water sometimes batteries that store excess elec-
+pressure to circulate water through a solar tricity produced by the system. The
+
+solar collectors. collector to a storage tank. They have no remainder of the system comprises equip-
+electric components that could break, a ment such as wiring, circuit breakers, and
+feature that generally makes them more support structures.
+reliable, easier to maintain, and possibly
+longer lasting than active systems. Today’s modules can be built into glass
+
+skylights and walls. Some modules resem-
+An active system uses an electric pump to ble traditional roof shingles, but they gen-
+circulate water or nontoxic antifreeze erate electricity, and some come with
+through the system. Active systems are built-in inverters. The solar modules avail-
+usually more expensive than passive sys- able today are more efficient and versatile
+tems, but they are also more efficient. than ever before.
+Active systems also can be easier to retrofit
+than passive systems because their storage In over 30 states, any additional power
+tanks do not need to be installed above or produced by a PV system, which is not
+close to the collectors. Also, the moving being used by a home or building, can be
+water in the system will not freeze in cold fed back to the electric grid through a
+climates. But because these systems use process known as net metering. Net meter-
+electricity, they will not function in a ing allows electricity customers to pay
+power outage. That’s why many active only for their “net” electricity, or the
+
+5
+
+Andrew Gordon and Fox & Fowle Architects, NREL/PIX09052
+
+
+
+amount of power consumed from their mirrors to concentrate sunlight onto the
+utility minus the power generated by their top of a tower, where a receiver sits.
+PV system. This metering arrangement Molten salt flowing through the receiver is
+allows consumers to realize full retail heated by the concentrated sunlight. The
+value for 100 percent of the PV energy salt’s heat is turned into electricity by a
+produced by their systems. conventional steam generator. Parabolic-
+
+trough systems concentrate the sun’s
+Grid-connected PV systems do not require energy through long, parabolic-shaped
+batteries. However, some grid connected mirrors. Sunlight is focused on a pipe
+systems use them for emergency backup filled with oil that runs down the axis of
+power. And of course in remote areas, solar the trough. When the oil gets hot, it is
+electricity is often a economic alternative to used to boil water in a conventional steam
+expensive distribution line extensions generator to produce electricity. A
+incurred by a customer first connecting to dish/engine system uses a mirrored dish
+the utility grid. Electricity produced by (similar in size to a large satellite dish).
+solar electric systems in remote locations is The dish-shaped surface focuses and con-
+stored in batteries. Batteries will usually centrates the sun’s heat onto a receiver at
+store electricity produced by a solar- the focal point of the dish (above and cen-
+electric system for up to three days. ter of the collectors). The receiver absorbs
+
+the sun’s heat and transfers it to a fluid
+What type of system to purchase will within an engine, where the heat causes
+depend on the energy-efficiency of your the fluid to expand against a piston to pro-
+home, your home’s location, and your duce mechanical power. The mechanical
+budget. Before you size your system, try power is then used to run a generator or
+reducing energy demand through energy- alternator to produce electricity. 
+efficient measures. Purchasing energy-sav-
+ing appliances and lights, for example, will Concentrating solar technologies can be
+reduce your electrical demand and allow used to generate electricity for a variety of
+you to purchase a smaller solar-electric applications, ranging from remote power
+
+This dish/Stirling solar system to meet your energy needs or get systems as small as a few kilowatts (kW) up
+power system in Arizona is
+capable of producing 25 kW more value from a larger system. Energy to grid-connected applications of 200 MW
+of electricity. efficiency allows you to start small and or more. A 354-MW power plant in South-
+
+then add on as your energy needs increase. ern California, which consists of nine trough
+power plants, meets the energy needs of
+
+Solar Thermal Electricity more than 350,000 people and is the
+Unlike solar-electric systems that convert world’s largest solar energy power plant.
+sunlight into electricity, solar thermal elec-
+tric systems convert the sun’s heat into Wind Energy
+electricity. This technology is used primar- For hundreds of years, people have used
+ily in large-scale power plants for power- windmills to harness the wind’s energy.
+ing cities and communities, especially in
+
+Wind energy has been Today’s wind turbines, which operate dif-
+the Southwest where consistent hours of ferently from windmills, are a much more
+sunlight are greater than other parts of the
+
+the fastest growing efficient technology. 
+United States.
+
+source of energy since Wind turbine technology may look simple:
+Concentrating solar power (CSP) tech- the wind spins turbine blades around a
+nologies convert solar energy into electric-
+
+1990… central hub; the hub is connected to a shaft,
+ity by using mirrors to focus sunlight onto which powers a generator to make electric-
+a component called a receiver. The ity. However, turbines are highly sophisti-
+receiver transfers the heat to a conven- cated power systems that capture the wind’s
+tional engine-generator—such as a steam energy by means of new blade designs or
+turbine—that generates electricity. airfoils. Modern, mechanical drive systems,
+
+combined with advanced generators, con-
+There are three types of CSP systems: vert that energy into electricity.  
+power towers (central receivers), parabolic
+troughs, and dish/engine systems. A Wind turbines that provide electricity to
+power tower system uses a large field of the utility grid range in size from 50 kW to
+
+6
+
+Bill Timmerman, NREL/PIX08982
+
+
+
+1 or 2 MW. Large, simplicity, it doesn’t occur naturally as a
+utility-scale pro- gas on the Earth. 
+jects can have hun-
+dreds of turbines Today, industry produces more than 4 tril-
+spread over many lion cubic feet of hydrogen annually. Most
+acres of land. of this hydrogen is produced through a
+Small turbines, process called reforming, which involves
+below 50 kW, are the application of heat to separate hydro-
+used to charge bat- gen from carbon. Researchers are develop-
+teries, electrify ing highly efficient, advanced reformers to
+homes, pump produce hydrogen from natural gas for
+water for farms what’s called Proton Exchange Membrane
+and ranches, and fuel cells.
+power remote
+telecommunica- You can think of fuel cells as batteries that
+tions equipment. never lose their charge. Today, hydrogen
+
+The 6-MW Green Mountain power plant in Searsburg, Wind turbines can fuel cells offer tremendous potential to
+Vermont, consists of eleven 550-kW wind turbines. also be placed in produce electrical power for distributed
+
+the shallow water energy systems and vehicles. In the future,
+near a coastline if open land is limited, hydrogen could join electricity as an
+such as in Europe, and/or to take advan- important “energy carrier”: storing, mov-
+tage of strong, offshore winds. ing, and delivering energy in a usable form
+
+to consumers. Renewable energy sources,
+Wind energy has been the fastest growing like the sun, can’t produce energy all the
+source of energy in the world since 1990, time. But hydrogen can store the renew-
+increasing at an average rate of over 25 able energy produced until it’s needed. 
+percent per year. It’s a trend driven largely
+
+Hydrogen is high in by dramatic improvements in wind tech- Eventually, researchers would like to
+nology. Currently, wind energy capacity directly produce hydrogen from water
+
+energy, yet its use as amounts to about 2500 MW in the United using solar, wind, and biomass and bio-
+States. Good wind areas, which cover 6 logical technologies. 
+
+a fuel produces water percent of the contiguous U.S. land area,
+could supply more than one and a half Ocean Energy
+
+as the only emission. times the 1993 electricity consumption of
+the entire country. The ocean can produce two types of energy:
+
+thermal energy from the sun’s heat, and
+California now has the largest number of mechanical energy from the tides and waves.
+installed turbines. Many turbines are also
+being installed across the Great Plains, Ocean thermal energy can be used for
+reaching from Montana east to Minnesota many applications, including electricity
+and south through Texas, to take advantage generation. Electricity conversion systems
+of its vast wind resource. North Dakota use either the warm surface water or boil
+alone has enough wind to supply 36 percent the seawater to turn a turbine, which acti-
+of the total 1990 electricity consumption of vates a generator.
+the lower 48 states. Hawaii, Iowa, Min-
+nesota, Oregon, Texas, Washington, Wiscon- The electricity conversion of both tidal
+sin, and Wyoming are among states where and wave energy usually involves
+wind energy use is rapidly increasing. mechanical devices. A dam is typically
+
+used to convert tidal energy into electric-
+Hydrogen ity by forcing the water through turbines,
+
+activating a generator. Meanwhile, wave
+Hydrogen is high in energy, yet its use as a energy uses mechanical power to directly
+fuel produces water as the only emission. activate a generator, or to transfer to a
+Hydrogen is the universe’s most abundant working fluid, water, or air, which then
+
+NASA uses liquid hydrogen element and also its simplest. A hydrogen drives a turbine/generator.
+to launch its space shuttles atom consists of only one proton and 
+and hydrogen fuel cells to one electron. Despite its abundance and Most of the research and development in
+provide them with electricity ocean energy is happening in Europe. 
+
+7
+
+NASA, NREL/PIX03814
+
+Green Mountain Power Corporation, NREL/PIX05768
+
+
+
+Resources 
+The following are sources of additional information on Clean Energy Basics
+renewable energy. The list is not exhaustive, nor does the NREL
+mention of any resource constitute a recommendation or Web site: www.nrel.gov/clean_energy/
+endorsement. Provides basic information on renewable energy technologies,
+Ask an Energy Expert including specific links for homeowners, small business own-
+DOE’s Energy Efficiency and Renewable Energy ers, students, and teachers. 
+
+Clearinghouse (EREC) European Renewable Energy Exchange (EuroREX)
+P.O. Box 3048 Web site: www.eurorex.com
+Merrifield, VA 22116 Features information and news on renewable energy technol-
+Phone: 1-800-DOE-EREC (363-3732) ogy developments in Europe and around the world. 
+TDD: 1-800-273-2957
+Fax: (703) 893-0400 Planet Energy—The Renewable Energy Trail 
+E-mail: doe.erec@nciinc.com United Kingdom Department of Trade and Industry 
+Online submittal form: www.eren.doe.gov/menus/ Web site: www.dti.gov.uk/renewable/ed_pack/
+energyex.html index.html
+Consumer Energy Information Web site: www.eren.doe. Specifically gears its information for students and teachers,
+gov/consumerinfo/ from grade school through high school. 
+Energy experts at EREC provide free general and technical
+information to the public on many topics and technologies per- Solstice 
+taining to energy efficiency and renewable energy. Center for Renewable Energy and Sustainable 
+
+Technology (CREST) 
+DOE’s Energy Efficiency and Renewable Energy Web site: http://solstice.crest.org
+Network (EREN) Provides an online source of information on renewable energy
+Web site: www.eren.doe.gov and technology development. 
+Your comprehensive online resource for DOE’s energy effi-
+ciency and renewable energy information.  Further Reading
+
+Achieving Energy Independence—One Step at a Time, J.
+Organizations Yago, Dunimis Technology, 1999, 190 pp. 
+Center for Energy Efficiency and Renewable Energy
+(CEERT) Charging Ahead: The Business of Renewable Energy and
+1100 Eleventh St., Suite 311 What It Means for America, J. Berger and L. Thurow, Uni-
+Sacramento, CA 95814 versity of California Press, 1998, 416 pp. 
+Phone (916) 442-7785; Fax (916) 447-2940 Clean Energy Choices: Tips on Buying and Using Renewable
+E-mail: info@ceert.org Energy at Home, DOE Office of Energy Efficiency and
+Web site: www.cleanpower.org Renewable Energy, 2000, 48 pp. Print copy available
+Promotes the development of renewable energy technologies from EREC (see “Ask an Energy Expert” above), and a
+and resources. PDF is available at www.nrel.gov/docs/fy00osti/
+
+27684.pdf. 
+National Renewable Energy Laboratory (NREL)
+1617 Cole Blvd. The Real Goods Solar Living Sourcebook: The Complete Guide
+Golden, CO 80401 to Renewable Energy Technologies and Sustainable Living, D.
+Web site: www.nrel.gov Pratt ed., Real Goods, 1999, 562 pp. 
+DOE-lab devoted to researching and developing renewable
+energy and energy efficiency technologies. 
+
+Renewable Energy Policy Project (REPP)
+1612 K St. NW, Suite 202
+Washington, DC 20006 
+Phone: (202) 293-2898; Fax: (202) 293-5857
+Web site: www.repp.org
+Works to advance renewable energy technologies. 
+
+Web Sites 
+CADDET Renewable Energy 
+Web site: www.caddet-re.org
+Provides technical information on renewable energy projects
+and technologies from around the world. 
+
+8
